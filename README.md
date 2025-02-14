@@ -1,2 +1,2 @@
 # Airbnb-clone
-This a airbnb clone.
+This is an airbnb clone.
